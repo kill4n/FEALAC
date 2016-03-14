@@ -1,0 +1,8 @@
+C:\Users\crhistian.killan.000\Documents\Visual Studio 2012\Projects\FEALAC_PC\FEALAC_PC\bin\Debug\FEALAC_PC.exe
+C:\Users\crhistian.killan.000\Documents\Visual Studio 2012\Projects\FEALAC_PC\FEALAC_PC\bin\Debug\FEALAC_PC.pdb
+C:\Users\crhistian.killan.000\Documents\Visual Studio 2012\Projects\FEALAC_PC\FEALAC_PC\obj\Debug\FEALAC_PC.csprojResolveAssemblyReference.cache
+C:\Users\crhistian.killan.000\Documents\Visual Studio 2012\Projects\FEALAC_PC\FEALAC_PC\obj\Debug\FEALAC_PC.Form1.resources
+C:\Users\crhistian.killan.000\Documents\Visual Studio 2012\Projects\FEALAC_PC\FEALAC_PC\obj\Debug\FEALAC_PC.Properties.Resources.resources
+C:\Users\crhistian.killan.000\Documents\Visual Studio 2012\Projects\FEALAC_PC\FEALAC_PC\obj\Debug\FEALAC_PC.csproj.GenerateResource.Cache
+C:\Users\crhistian.killan.000\Documents\Visual Studio 2012\Projects\FEALAC_PC\FEALAC_PC\obj\Debug\FEALAC_PC.exe
+C:\Users\crhistian.killan.000\Documents\Visual Studio 2012\Projects\FEALAC_PC\FEALAC_PC\obj\Debug\FEALAC_PC.pdb
